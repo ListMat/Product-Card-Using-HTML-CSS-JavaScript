@@ -8,11 +8,11 @@
 
 
  <h1 align="center">
-   CSS-Neumorphic-Design-Toggle-Switch
+   Product-Card-Using-HTML-CSS-JavaScript
 
 
 <p align="center">
-<hr /> Here is another neumorphic design inspired input field design for you, this time it’s a toggle switch with a nice micro interaction when you click on it.
+<hr /> Responsive Animated Product Card Using HTML & CSS & JavaScript (2020).
 <br>
 
 </p>
